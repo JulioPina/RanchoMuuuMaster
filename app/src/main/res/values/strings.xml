@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">RanchoMuuu</string>
+ //Login//
+    <string name="usuario">Ingrese el usuario</string>
+    <string name="contrasenia">Ingrese su contraseña</string>
+    <string name="guardar">Guardar</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="salir">Salir</string>
+    <string name="continuar">Continuar</string>
+    <string name="saludo">Iniciar sesión</string>
+    <string name="imagen">Foto</string>
+    <string name="cuentaNueva">Registrate</string>
+
+    //Crear usuario//
+    <string name="Nombre">Ingrese su nombre (s)</string>
+    <string name="ApellidoP">Apellido paterno</string>
+    <string name="ApellidoM">Apellido Materno</string>
+    <string name="CorreoE">Correo electronico</string>
+    <string name="Tel">Telefono</string>
+    <string name="Edad">Edad</string>
+    <string name="Genero">Sexo</string>
+    <string name="Descripcion">Imagen de usuario</string>
+    <string name="Colonia">Colonia actual</string>
+    <string name="Municipio">Municipio actual</string>
+    <string name="Estado">Estado actual</string>
+    <string name="EditarP">Editar perfil</string>
+    <string name="title_activity_menu_opciones">MenuOpcionesActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+   //Menu de opciones//
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_populares">Populares</string>
+    <string name="menu_recientes">Recientes</string>
+    <string name="menu_vender">Vender</string>
+    <string name="menu_perfil">Perfil</string>
+
+
+
+</resources>
